@@ -1,1 +1,2 @@
 # AniNotifierDiscordBot
+這是給動畫瘋使用的更新通知機器人
